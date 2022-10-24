@@ -17,8 +17,3 @@
 ![](images/image1.png)
 
 
-
-#### By
-+ Jesse E.Agbe(JCharis)
-+ Jesus Saves@JCharisTech
-+ J-Secur1ty
